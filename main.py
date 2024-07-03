@@ -26,7 +26,7 @@ model = HuggingFaceEndpoint(repo_id=repoid,token=token,temperature=0.5)
 embeddings = HuggingFaceEndpointEmbeddings()
 
 urls = []
-for i in range(1):
+for i in range(3):
     url = st.sidebar.text_input(f"URL {i+1}")
     urls.append(url)
 
