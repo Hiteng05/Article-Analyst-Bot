@@ -8,7 +8,7 @@ Streamlit App Link : https://article-analyst-bot-wpt8nqhmlmnmvn2ezs9hrf.streamli
 ## Tech Used
 Langchain , MistralAI (Open Source Model from Hugging Face) , FAISS , streamlit.
 
-#Applications and scope for future expansion
+## Applications and scope for future expansion
 - Industry application in Equity Research.
 - A Web Scraper can be integrated to daily scrape news articles instead of providing URLs.
 - A proper Vector Database such as Pinecone or MongoDB can be used for scalability.
